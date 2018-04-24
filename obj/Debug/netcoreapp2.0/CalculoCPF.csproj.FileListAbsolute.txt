@@ -1,0 +1,3 @@
+C:\Users\vinicius.csantos15\logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.csantos15\logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfoInputs.cache
+C:\Users\vinicius.csantos15\logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfo.cs

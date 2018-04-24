@@ -14,6 +14,13 @@ namespace CalculoCPF
             int resto=0;
             int rs1 = 0;
             int rs2 = 0;
+
+            cpfCliente = "34055049889"
+            cpf9 = cpfCliente.Substring(0,9);
+            for(int i=contagem1; i >=2;i--)
+            {
+                rs1 = cpf9[i];
+            }
         }
     }
 }
